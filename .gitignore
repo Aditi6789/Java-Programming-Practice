@@ -10,7 +10,6 @@ out/
 
 # Build directories
 target/
-out/
 bin/
 
 # IDE files
@@ -30,7 +29,6 @@ Thumbs.db
 .settings
 .springBeans
 .sts4-cache
-bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
@@ -40,9 +38,3 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
