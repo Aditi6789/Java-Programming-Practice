@@ -1,4 +1,15 @@
 package controlflow.iteration;
+/*
+DiamondPattern - Prints diamond star pattern
+Example for n=3:
+   *
+  * *
+ * * *
+  * *
+   *
+Author : Aditi
+Date: 7-10-2026
+ */
 import java.util.Scanner;
 public class DiamondPattern {
     public static void main(String[] args){

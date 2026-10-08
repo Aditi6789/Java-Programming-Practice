@@ -1,5 +1,16 @@
 package controlflow.iteration;
+
+/*
+ TrianglePattern - Prints right triangle star pattern
+ Example for n=3:
+ *
+ * *
+ * * *
+ Author : Aditi
+ Date: 7-10-2026
+ */
 import java.util.Scanner;
+
 public class TrianglePattern {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
@@ -12,5 +23,6 @@ public class TrianglePattern {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

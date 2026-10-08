@@ -1,4 +1,15 @@
 package controlflow.iteration;
+/*
+ PerpendicularLine - Prints T-shaped perpendicular line pattern
+ Example for n=5:
+ *****
+   *
+   *
+   *
+   *
+ Author : Aditi
+ Date: 7-10-2026
+ */
 import java.util.Scanner;
 public class PerpendicularLine {
     public static void main(String[] args) {
@@ -19,5 +30,6 @@ public class PerpendicularLine {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

@@ -1,8 +1,8 @@
 package basics;
-/**
- * VariablesDemo - Shows real-world use of variables.
- * Author: Aditi Jain (Aditi6789)
- * Use-case: Employee/Student profile demo
+/*
+ VariablesDemo - Shows real-world use of variables.
+ Author: Aditi Jain (Aditi6789)
+ Use-case: Employee/Student profile demo
  */
 public class VariablesDemo {
    public static void main(String[] args) {

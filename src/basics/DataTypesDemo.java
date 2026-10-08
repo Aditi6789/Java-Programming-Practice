@@ -1,8 +1,8 @@
 package basics;
-/**
- * DataTypesDemo - Demonstrates all primitive data types in Java
- * Author : Aditi
- * Date: 1-10-2026
+/*
+ DataTypesDemo - Demonstrates all primitive data types in Java
+ Author : Aditi
+ Date: 1-10-2026
  */
 public class DataTypesDemo {
     public static void main(String[] args){

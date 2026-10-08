@@ -1,4 +1,13 @@
 package controlflow.iteration;
+/*
+ IncreasingNumberPattern - Prints increasing numbers in triangle pattern
+ Example for n=3:
+ 1
+ 1 2
+ 1 2 3
+ Author : Aditi
+ Date: 7-10-2026
+ */
 import java.util.Scanner;
 public class IncreasingNumberPattern {
     public static void main(String[] args) {
@@ -7,9 +16,10 @@ public class IncreasingNumberPattern {
         int n = sc.nextInt();
         for (int i = 1; i <= n; i++) {
             for (int k = 1; k <= i; k++) {
-                System.out.print(k);
+                System.out.print(k +" ");
             }
             System.out.println();
         }
+        sc.close();
     }
 }
