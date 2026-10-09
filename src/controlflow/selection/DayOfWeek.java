@@ -1,4 +1,10 @@
 package controlflow.selection;
+/*
+ DayOfWeek - Displays day name using switch-case
+ Example: 1->Monday, 7->Sunday
+ Author : Aditi
+ Date: 08-10-2026
+*/
 import java.util.Scanner;
 public class DayOfWeek {
     public static void main(String[] args){
