@@ -4,7 +4,6 @@ package arrays;
  SecondLargestElement - Finds second largest element
  Example: [1, 5, 2, 9, 3, 6] -> 6
  Author : Aditi
- Date: 10-10-2026
 */
 
 public class SecondLargestElement {

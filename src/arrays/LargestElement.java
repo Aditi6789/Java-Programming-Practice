@@ -4,7 +4,6 @@ package arrays;
  LargestElement - Finds largest element in array
  Example: [1, 5, 2, 9, 3] -> 9
  Author : Aditi
- Date: 09-10-2026
 */
 
 public class LargestElement {

@@ -4,7 +4,6 @@ package arrays;
  EvenOddInArray - Counts even and odd numbers in array
  Example: [1, 2, 3, 4, 5] -> Even: 2, Odd: 3
  Author : Aditi
- Date: 09-10-2026
 */
 
 public class EvenOddInArray {

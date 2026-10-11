@@ -4,7 +4,6 @@ package arrays;
  SmallestElement - Finds smallest element in array
  Example: [1, 5, 2, 9, 3] -> 1
  Author : Aditi
- Date: 10-10-2026
 */
 
 public class SmallestElement {

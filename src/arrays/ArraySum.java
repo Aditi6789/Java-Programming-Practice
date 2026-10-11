@@ -3,7 +3,6 @@ package arrays;
 /*
  ArraySum - Calculates sum of array elements
  Author : Aditi
- Date: 09-10-2026
 */
 
 public class ArraySum {

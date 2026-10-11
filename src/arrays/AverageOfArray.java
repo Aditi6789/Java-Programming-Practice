@@ -4,7 +4,6 @@ package arrays;
  AverageOfArray - Finds average of array elements
  Example: [1, 5, 2, 9, 3] -> 4.0
  Author : Aditi
- Date: 10-10-2026
 */
 
 public class AverageOfArray {
