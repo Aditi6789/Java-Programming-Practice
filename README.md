@@ -40,6 +40,13 @@ Java-Programming-Practice/
 - [ ] JDBC
 - [ ] DSA in Java
 
+## 📊 Auto Progress - Last updated by bot
+
+<!--START_STATS-->
+- Total Java Files: 35
+- Last Updated: 27 Oct 2026
+<!--END_STATS-->
+
 ## 📊 Progress
 *Started:* September 2026
 *Status:* Active Learning
