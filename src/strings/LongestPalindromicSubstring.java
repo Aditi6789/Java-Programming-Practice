@@ -1,21 +1,3 @@
-package strings;
-
-/*
- Longest Palindromic Substring - Expand Around Center
- Example: "babad" -> "bab" , "cbbd" -> "bb"
- Author: Aditi
- Time: O(n^2), Space: O(1)
-*/
-
-public class package strings;
-
-/*
- Longest Palindromic Substring - Expand Around Center
- Example: "babad" -> "bab" , "cbbd" -> "bb"
- Author: Aditi
- Time: O(n^2), Space: O(1)
-*/
-
 public class package strings;
 
 /*
