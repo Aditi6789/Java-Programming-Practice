@@ -5,17 +5,20 @@ A structured repository for learning and practicing core Java programming concep
 > This repository documents my Java learning journey with clean, well-commented code and organized topic-wise practice.
 
 ## 📁 Repository Structure
-
+```
 Java-Programming-Practice/
 ├── src/
-│ ├── basics/ # Variables, Data Types, Loops, Conditions
-│ ├── oop/ # Classes, Objects, Inheritance, Polymorphism
-│ ├── collections/ # List, Set, Map, Queue
-│ ├── exception/ # Exception Handling
-│ ├── jdbc/ # JDBC Practice
-│ └── dsa/ # Arrays, Strings, LinkedList, Trees
-├──.gitignore
+│   ├── arrays/          # Array problems - TwoSum, StockBuySell, Sorting
+│   ├── basics/          # Java Basics - HelloWorld, DataTypes
+│   ├── controlflow/     
+│   │   ├── iteration/   # Pattern Printing
+│   │   ├── jump/        # Break, Continue
+│   │   └── selection/   # If-Else, Switch
+│   ├── operators/       # Operators practice
+│   └── strings/         # String problems
+├── .gitignore
 └── README.md
+```
 
 ## 🚀 How to Run
 
@@ -39,13 +42,6 @@ Java-Programming-Practice/
 - [ ] Exception Handling
 - [ ] JDBC
 - [ ] DSA in Java
-
-## 📊 Auto Progress - Last updated by bot
-
-<!--START_STATS-->
-- Total Java Files: 70
-- Last Updated: 28 Oct 2026
-<!--END_STATS-->
 
 ## 📊 Progress
 *Started:* September 2026
