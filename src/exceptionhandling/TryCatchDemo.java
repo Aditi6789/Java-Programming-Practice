@@ -8,12 +8,6 @@ package exceptionhandling;
  * Type: 1. Custom Exception 2. try-catch-finally 3. throw/throws
  */
 
-class InvalidAgeException extends Exception {
-    public InvalidAgeException(String message) {
-        super(message);
-    }
-}
-
 public class TryCatchDemo {
     public static void main(String[] args) {
         // Test Case 1: Invalid Age
