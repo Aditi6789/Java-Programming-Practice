@@ -11,7 +11,7 @@ package oops;
 public class AbstractionDemo {
     public static void main(String[] args) {
         Vehicle v = new Car("Thar", 2024);
-        v.start(); // Car wala chalega
+        v.start();
         v.displayInfo();
     }
 }
