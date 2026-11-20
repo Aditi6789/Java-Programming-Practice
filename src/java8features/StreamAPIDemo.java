@@ -12,7 +12,7 @@ public class StreamAPIDemo {
     public static void main(String[] args) {
         java.util.List<Integer> numbers = java.util.Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
 
-        // 1. Filter - sirf even numbers
+        // 1. Filter
         System.out.print("Even Numbers: ");
         numbers.stream()
                 .filter(n -> n % 2 == 0)
@@ -20,7 +20,7 @@ public class StreamAPIDemo {
 
         System.out.println();
 
-        // 2. Map - har number ka square
+        // 2. Map
         System.out.print("Square: ");
         numbers.stream()
                 .map(n -> n * n)
@@ -28,7 +28,7 @@ public class StreamAPIDemo {
 
         System.out.println();
 
-        // 3. Filter + Map + Collect - even ka square list me
+        // 3. Filter + Map + Collect
         java.util.List<Integer> result = numbers.stream()
                 .filter(n -> n % 2 == 0)
                 .map(n -> n * n)
@@ -36,7 +36,7 @@ public class StreamAPIDemo {
 
         System.out.println("Even Square List: " + result);
 
-        // 4. Count - 5 se bade kitne hai
+        // 4. Count
         long count = numbers.stream()
                 .filter(n -> n > 5)
                 .count();
