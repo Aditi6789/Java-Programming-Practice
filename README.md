@@ -1,4 +1,3 @@
-Ye le, bas isko select-all karke copy kar le:
 # Java Programming Practice ☕
 
 > 110+ Java Programs | DSA + OOPS + Patterns | Placement Prep 2026
@@ -6,10 +5,10 @@ Ye le, bas isko select-all karke copy kar le:
 
 A structured repository for learning and practicing core Java, object-oriented programming, and data structures & algorithms with clean, well-commented code.
 
-[Java](https://img.shields.io/badge/Java-21-orange)
-[IDE](https://img.shields.io/badge/IDE-IntelliJ_IDEA_2026.1.4-blue)
-[Files](https://img.shields.io/badge/Files-110%2B-green)
-[Status](https://img.shields.io/badge/Status-Active_Learning-brightgreen)
+![Java](https://img.shields.io/badge/Java-21-orange)
+![IDE](https://img.shields.io/badge/IDE-IntelliJ_IDEA_2026.1.4-blue)
+![Files](https://img.shields.io/badge/Files-110%2B-green)
+![Status](https://img.shields.io/badge/Status-Active_Learning-brightgreen)
 
 ## 📊 Stats - What I Built
 
@@ -20,7 +19,7 @@ A structured repository for learning and practicing core Java, object-oriented p
 | `src/collections` | 13 Files | ArrayList, LinkedList, HashMap, LinkedHashMap, HashSet, TreeMap, TreeSet, Stack, Queue, PriorityQueue, ArrayDeque, Vector |
 | `src/oops` | 7 Files | ClassObject, Inheritance, Polymorphism, Encapsulation, Abstraction, Interface, ConstructorChaining |
 | `src/operators` | 7 Files | Arithmetic, Relational, Logical, Bitwise, Unary, Ternary, Assignment |
-| `src/controlflow` | 25 Files | Selection (11) - If-Else, Switch, Grading, Calculator \| Iteration (10 Patterns - Pyramid, Diamond) \| Jump (4) - Break, Continue |
+| `src/controlflow` | 25 Files | Selection (11) - If-Else, Switch, Grading, Calculator | Iteration (10 Patterns - Pyramid, Diamond) | Jump (4) - Break, Continue |
 | `src/exceptionhandling` | 4 Files | TryCatch, ThrowVsThrows, CustomException, InvalidAgeException |
 | `src/filehandling` | 5 Files | CreateFile, ReadFile, WriteFile, DeleteFile, FileInfo |
 | `src/java8features` | 4 Files | Lambda, StreamAPI (filter map collect), FunctionalInterface, Optional |
@@ -30,7 +29,6 @@ A structured repository for learning and practicing core Java, object-oriented p
 **Total: 110+ Java Files**
 
 ## 📁 Repository Structure
-
 Java-Programming-Practice/
 ├── src/
 │   ├── arrays/          # 18 - Array problems
@@ -48,8 +46,7 @@ Java-Programming-Practice/
 │   ├── operators/       # 7 - Operators practice
 │   └── strings/         # 20 - String problems
 ├── .gitignore
-└── README.md
-
+└── README.mdjavascript
 ## 🚀 How to Run
 
 1. Clone: `git clone https://github.com/Aditi6789/Java-Programming-Practice.git`
